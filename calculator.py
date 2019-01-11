@@ -1,4 +1,4 @@
-"""def add(num1,num2):
+def add(num1,num2):
     return num1+num2
 def sub(num1,num2):
     return num1-num2
@@ -19,11 +19,12 @@ elif se == '3':
     print(a, "*", b, "=", mul(a, b))
 else:
     print('invalid')
-    """
-class name:
+  
+    
+"""class name:
     def a(self):
         name=input('enter name:')
         age=input('enter age:')
         print("your name is:"+name,"and yourage is:"+age)
 ob=name()
-ob.a()
+ob.a()"""
